@@ -23,28 +23,23 @@
 			
 				<div class="row py-3"> <!--  row : 하위 태그를 가로로 배치  -->
 	
-					<div class="col-sm-4"> 
-						<img alt="" src="mainlogow.png" width="40%">
-						
+					<div class="col-sm-4"> 		
+						<img alt=""  src="mainlogow.png"  width="40%">	
 					</div>
 					
 					<div class="col-sm-4"> 
 					
-						<input class="header_input" type="text"  placeholder="Search">
+						<input class="header_input" type="text"  placeholder="search">
 						
 					</div>	
 					
-					<div class="col-sm-4"> 			
-					
-						<i class="fa-solid fa-house fa-2x"></i>			
-							
-						<i class="fa-solid fa-paper-plane fa-2x"></i>	
-									
-						<i class="fa-solid fa-square-plus fa-2x"></i>
-								
-						<i class="fa-brands fa-safari fa-2x"></i>		
-							
-					</div>	
+						<div class="col-sm-4 "> 																		
+							 <i class="fa-solid fa-house fa-2x p-2"></i> 									
+							 <i class="fa-regular fa-paper-plane fa-2x p-2"></i>															
+							 <i class="fa-regular fa-square-plus fa-2x p-2"></i> 													 
+							 <i class="fa-brands fa-safari fa-2x p-2"></i>	 
+ 							<i class="fa-regular fa-heart fa-2x p-2"></i>
+						</div>	
 					
 				</div>	
 				
@@ -59,32 +54,55 @@
 			 		
 			 		<div class="col-sm-2 profile"> <!--  프로필 사진 -->
 			 			
-			 			<img class="rounded-circle" alt="" src="0321.jpg"  width="100%">
+			 			<img class="rounded-circle" alt="" src="456.png"  width="100%" >
 			 			</div>
 			 			
 			 			
 			 		<div class="col-sm-8">	  <!--  이름 -->
-			 			<span>김재우</span>
-			 			</div>	
-			 			
-			 		
+			 			<span>피카츄</span>
+			 			</div>			 
+			 									 		
 			 		<div class="col-sm-2">	 <!-- 옵션 버튼  -->
-			 			<button class="optionbtn"> · · · </button>
-			 			
+			 			<button class="optionbtn"> · · · </button>	 			
 			 			</div>
-			 	</div>
-			 
+			 	</div>			 
 			 </div>
 			 
 			 <div> <!-- 게시물 이미지   -->
-			 	<img alt=" " src="qwe.jpg"  width="100%">
-			 
-			 </div>
-			 
+			 	<img alt=" " src="951.jpg"  width="100%">			 
+			 </div>	
+			 		 
 			 <div> <!-- 하단 내용   -->
 			 
-	 
-				 </div>
+			  <div> 
+			  		<div> 
+			  				<i class="fa-regular fa-heart fa-2x p-2"></i>
+			  				 <i class="fa-regular fa-comment fa-2x p-2"></i>
+			  				<i class="fa-regular fa-paper-plane fa-2x p-2"></i>	
+			  			 </div> <!-- 아이콘 -->
+			  			 
+			  		<div>
+			  		<span> 좋아요 </span> <span> 1,487 개</span>
+			  			  </div> <!-- 좋아요 개수 -->
+			  		<div> 
+			  				피카츄 그럼 이만<span> ··· </span> <span> <a href="#">더보기</a> </span>
+			  			  </div> <!-- 내용 -->
+			  			  
+			  		<div> <a href="#">댓글 128개 모두보기 </a> </div> <!-- 댓글 -->
+			  		
+			  		<div> <span>1주전</span>  </div> <!-- 작성일 -->
+			  		
+				 <div>	
+			
+				 <i class="fa-regular fa-face-smile fa-2x"></i>  
+				 			<input class="header_input " type="text"  placeholder="댓글 달기... 						       	     게시 ">
+				 	<!--   <a href="#">게시</a> -->
+				 				
+				 	</div> <!-- 댓글 달기/ 게시  -->
+				 	
+				 			
+				 			
+				 </div> 
 			</div>
 		
 		

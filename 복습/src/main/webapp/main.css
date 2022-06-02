@@ -7,11 +7,11 @@ body{
 	/* 헤더 배경색 */
 .header{
 	 background-color:	white;
-	 border-bottom: 1px solid #c0c0c0;
-	 border-top: 1px solid #c0c0c0; 
+	 border-bottom: 1px solid c0c0c0;
+	 border-top: 1px solid c0c0c0; 
 }
 .header_input{
-		background-color:	#efefef; /*배경색*/
+		background-color:	#cfcfcfcf; /*배경색*/
 		border: none; 			/* 테두리 없음*/
 		border-radius:	 15px; 		/* 테두리 모서리 곡선 */
 		padding: 10px;	/* 안쪽 여백 */
@@ -19,10 +19,13 @@ body{
 }
 /* 메인페이지의 내용물 */
 	.contentbox{
-		border: 1px solid red ; 	/* 테두리 */
+		border: 1px solid  #c0c0c0; 	/* 테두리 */
 		border-radius: 5px;	
 	}
 	.optionbtn{
 		background-color: #fafafa;;
 		border: none;
 	}
+	
+	
+	
